@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 
 import java.util.*;
 
+//@Service is basically used for calling up the dao class
+//Basically we use service for building
 @Service
 public class StudentService {
     @Autowired

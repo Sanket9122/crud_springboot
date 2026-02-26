@@ -2,6 +2,7 @@ HELP.md
 .mvn/wrapper/maven-wrapper.properties
 target/
 .mvn/wrapper/maven-wrapper.jar
+.src/main/resources/application.properties
 !**/src/main/**/target/
 !**/src/test/**/target/
 
